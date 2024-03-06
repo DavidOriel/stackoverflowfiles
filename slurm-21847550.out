@@ -1,0 +1,24 @@
+Time of zipping the original file:
+  adding: stackoverflow_javascript_python_qa.csv (deflated 75%)
+
+real	0m2.638s
+user	0m1.985s
+sys	0m0.025s
+Size of the stackoverflow_javascript_python_qa.zip file:
+20M	stackoverflow_javascript_python_qa.zip
+Time of zipping the duplicated file:
+  adding: duplicated_file.csv (deflated 75%)
+
+real	0m55.932s
+user	0m20.099s
+sys	0m0.290s
+Size of the duplicated_file.zip file:
+179M	duplicated_file.zip
+Time of zipping the sorted file:
+  adding: sorted_file.csv (deflated 96%)
+
+real	0m39.615s
+user	0m6.387s
+sys	0m0.314s
+Size of the sorted_file.zip file:
+30M	sorted_file.zip
